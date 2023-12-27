@@ -1,0 +1,5 @@
+{
+    "require": {
+        "spatie/geocoder": "^5.0"
+    }
+}
